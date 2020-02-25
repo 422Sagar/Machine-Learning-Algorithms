@@ -1,0 +1,4 @@
+BUSINESS PROBLEM:-
+
+Prepare a model for glass classification using KNN using the glass data set given below
+
